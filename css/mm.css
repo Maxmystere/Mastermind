@@ -1,0 +1,21 @@
+.dummy {
+  background-color: #ddd;
+  font: 22px bold;
+  height: 28px;
+  width: 30px;
+  border: 1px solid #fff;
+  text-align: center
+}
+
+.ClassForm {
+  background-color: transparent;
+  color: #0000ff;
+  border: 0px solid #fff;
+  text-align: center;
+  cursor: default;
+  font-size: '15px';
+  Font-Weight: 'bold';
+  Font-Family: 'Arial';
+  Font-Style: 'normal';
+  font-variant: normal
+}
